@@ -28,7 +28,7 @@ class MainActivity2 : AppCompatActivity() {
         setupActionBarWithNavController(navController, appBarConfiguration)
 
         binding.fab.setOnClickListener { view ->
-            Snackbar.make(view, "Выполнили Пантелеев Егор и Зубова Арина", Snackbar.LENGTH_LONG)
+            Snackbar.make(view, "ИП1-31", Snackbar.LENGTH_LONG)
                 .setAction("Action", null).show()
         }
 
