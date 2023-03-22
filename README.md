@@ -1,1 +1,1 @@
-# kottlin_counter
+# Primitive counter
